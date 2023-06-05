@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="option">Option</string>
+    <string name="start">Start</string>
+    <string name="binary_shape">Binary Shape</string>
+    <string name="about">About</string>
+</resources>
